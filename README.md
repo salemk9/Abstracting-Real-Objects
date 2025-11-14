@@ -12,7 +12,8 @@ When you run the program, you’ll see gondolas with unique attributes—capacit
 This project brings both the gondola and its operator to life, allowing you to change their properties and see instant, realistic updates. It’s a creative blend of object interaction and customization, making OOP concepts vivid and engaging!
 
 
-Class Diagram: https://drive.google.com/file/d/1jxgqv3vU2fFS7xBVOaZRV_g47tL0GvL3/view?usp=sharing
+## Class Diagram
 
 <img width="722" height="324" alt="image" src="https://github.com/user-attachments/assets/0916744f-7517-4f1b-8514-eddd13c864a5" />
 
+Link if image doesn't work:  https://drive.google.com/file/d/1jxgqv3vU2fFS7xBVOaZRV_g47tL0GvL3/view?usp=sharing
