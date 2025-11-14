@@ -1,3 +1,4 @@
+(made with the help of Copilot AI)
 # Venice Canal: Gondola Adventures
 
 **Venice Canal: Gondola Adventures** lets you explore the world of gondolas through the power of Java classes!
