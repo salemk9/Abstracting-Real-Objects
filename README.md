@@ -1,6 +1,6 @@
-# Venice Canal: Gondola OOP Simulation
+# Venice Canal: Gondola Adventures
 
-**Venice Canal: Gondola OOP Simulation** lets you explore the world of gondolas through the power of Java classes!
+**Venice Canal: Gondola Adventures** lets you explore the world of gondolas through the power of Java classes!
 
 **Goal:**  
 Simulate and customize real-life gondolas and their gondoliers using object-oriented programming, showcasing how code can reflect real-world objects and their interactions.
@@ -14,4 +14,5 @@ This project brings both the gondola and its operator to life, allowing you to c
 
 Class Diagram: https://drive.google.com/file/d/1jxgqv3vU2fFS7xBVOaZRV_g47tL0GvL3/view?usp=sharing
 
+<img width="722" height="324" alt="image" src="https://github.com/user-attachments/assets/0916744f-7517-4f1b-8514-eddd13c864a5" />
 
