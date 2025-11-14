@@ -1,24 +1,17 @@
-## Gondola Boat Simulator
+# Venice Canal: Gondola OOP Simulation
+
+**Venice Canal: Gondola OOP Simulation** lets you explore the world of gondolas through the power of Java classes!
+
+**Goal:**  
+Simulate and customize real-life gondolas and their gondoliers using object-oriented programming, showcasing how code can reflect real-world objects and their interactions.
+
+**What to expect:**  
+When you run the program, you’ll see gondolas with unique attributes—capacity, material, color, speed—operated by dynamic gondoliers. Try actions like loading passengers, rowing, turning, and switching operators, all shown as clear console output.
+
+**What makes it unique:**  
+This project brings both the gondola and its operator to life, allowing you to change their properties and see instant, realistic updates. It’s a creative blend of object interaction and customization, making OOP concepts vivid and engaging!
 
 
-* Class Diagram: https://drive.google.com/file/d/1jxgqv3vU2fFS7xBVOaZRV_g47tL0GvL3/view?usp=sharing
+Class Diagram: https://drive.google.com/file/d/1jxgqv3vU2fFS7xBVOaZRV_g47tL0GvL3/view?usp=sharing
 
 
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
